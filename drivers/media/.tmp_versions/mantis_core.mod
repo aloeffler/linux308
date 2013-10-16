@@ -1,0 +1,2 @@
+drivers/media/dvb/mantis/mantis_core.ko
+drivers/media/dvb/mantis/mantis_ioc.o drivers/media/dvb/mantis/mantis_uart.o drivers/media/dvb/mantis/mantis_dma.o drivers/media/dvb/mantis/mantis_pci.o drivers/media/dvb/mantis/mantis_i2c.o drivers/media/dvb/mantis/mantis_dvb.o drivers/media/dvb/mantis/mantis_evm.o drivers/media/dvb/mantis/mantis_hif.o drivers/media/dvb/mantis/mantis_ca.o drivers/media/dvb/mantis/mantis_pcmcia.o drivers/media/dvb/mantis/mantis_input.o
